@@ -14,7 +14,7 @@ router that your machine is connecting to.
 - Write unittest
 - Add CI
 - Port to python2.7
-- Add simple webUI
+- Add simple webUI [optional, allow dependencies]
 - Move config and data to ~/.denda as this is an "laptop" software.
 
 # Contributing
