@@ -16,6 +16,10 @@ router that your machine is connecting to.
 - Port to python2.7
 - Add simple webUI [optional, allow dependencies]
 - Move config and data to ~/.denda as this is an "laptop" software.
+- Get precise location (Using Google Geolocation API with Wifi)
+- Get the name of place on Gmap/places service.
+  Scrape review/wifi password  (like on Foursquare)
+- Test speed and save to db
 
 # Contributing
 - All contributions are welcome.
